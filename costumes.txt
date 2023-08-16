@@ -1,0 +1,6 @@
+Cop Costume,Cartmax com,$15,0
+Formal Suite,Megaplex,$14.5,25
+Fairy Costume,DollarSmart,$18,20
+Thor Costume,Marvel INC,$23,20
+Ant Costume ,DC Comics,$45,20
+Hulk Costume,Marvel City,$40,20
